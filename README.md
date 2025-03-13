@@ -14,6 +14,6 @@
   </a>
 </a>
   <a href="https://github.com/DEW-MD-LK/DEW-MD-V1">
-    <img src="https://img.shields.io/github/forks/DEW-MD/DEW-MD-V1?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/DEW-MD-LK/DEW-MD-V1?label=Fork&style=social">
     
   </a>
