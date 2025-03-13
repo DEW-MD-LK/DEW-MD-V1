@@ -12,3 +12,8 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DEW-MD-LK/DEW-MD-V1-NEW&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
+</a>
+  <a href="https://github.com/ASITHA-MD/BOT-NEW">
+    <img src="https://img.shields.io/github/forks/DEW-MD/DEW-MD-V1?label=Fork&style=social">
+    
+  </a>
