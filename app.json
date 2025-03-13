@@ -1,0 +1,21 @@
+{
+  "name": "DEW-MD",
+  "description": "Javascript WhatsApp bot made by Hansa",
+  "logo": "https://i.ibb.co/hgf2p9M/repository-open-graph-templatefdf.png",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true
+    }
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
