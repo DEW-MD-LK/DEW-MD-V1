@@ -61,3 +61,6 @@
 [![BOT-NEW](https://img.shields.io/badge/dew_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
 <hr>
+<b>COPY DEPLOY CODE</b></br>
+
+<a href="https://raw.githubusercontent.com/KING-HANSA/DEW-MD-DATA-BASE/refs/heads/main/workflow%20code.txt"><img src="https://img.shields.io/badge/COPY%20DEPLOY%20CODE-red"  width="350"></a>
