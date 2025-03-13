@@ -48,15 +48,6 @@
 <a href='' target="_blank">
 <img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
-<b>CONTACT OWNER</b>
-
-[![BOT-NEW](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94701515609)
-<hr>
-
-<a href="https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-green"  width="350"></a>
-
-<hr>
-
 <b>DEPLOY</b>
 </br>
 </br>
@@ -69,8 +60,3 @@
 [![BOT-NEW](https://img.shields.io/badge/dew_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
 <hr>
-
-<b>COPY DEPLOY CODE</b></br>
-
-<a href="https://whatsapp.com/channel/0029Vb2bFCq0LKZGEl4xEe2G"><img src="https://img.shields.io/badge/COPY%20DEPLOY%20CODE-red"  width="350"></a>
-
