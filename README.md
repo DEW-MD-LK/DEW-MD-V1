@@ -46,7 +46,7 @@
 <b>GET SESSION ID VIA PAIR CODE</b>
 <br>
 <br>
-<a href='' target="_blank">
+<a href='https://high-rodie-dew-md-8b276a52.koyeb.app' target="_blank">
 <img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 <br><br>
 <b>DEPLOY</b>
