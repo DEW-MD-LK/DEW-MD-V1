@@ -35,3 +35,9 @@
     <img src="https://img.shields.io/github/languages/top/DEW-MD-LK/DEW-MD-V1?color=purple&label=Javascript&style=plastic">
 
   </a>
+  <a href="https://github.com/DEW-MD-LK/DEW-MD-V1">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Hansa%20Dewmina&color=purple&style=plastic">
+
+  </a>
+  </p>
+</p>
