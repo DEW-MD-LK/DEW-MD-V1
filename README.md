@@ -22,3 +22,8 @@
     <img src="https://img.shields.io/github/stars/DEW-MD-LK/DEW-MD-V1?style=social">
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/DEW-MD-LK/DEW-MD-V1">
+    <img src="https://img.shields.io/github/repo-size/DEW-MD-LK/DEW-MD-V1?color=purple&label=Repo%20Size&style=plastic">
+
+  </a>
