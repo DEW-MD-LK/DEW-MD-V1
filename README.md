@@ -17,3 +17,8 @@
     <img src="https://img.shields.io/github/forks/DEW-MD-LK/DEW-MD-V1?label=Fork&style=social">
     
   </a>
+  
+  <a href="https://github.com/DEW-MD-LK/DEW-MD-V1">
+    <img src="https://img.shields.io/github/stars/DEW-MD-LK/DEW-MD-V1?style=social">
+  </a>
+</p>
