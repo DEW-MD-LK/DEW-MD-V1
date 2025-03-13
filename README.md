@@ -6,5 +6,5 @@
 
 <p align="center">
 <a href="https://github.com/DEW-MD-LK/DEW-MD-V1">
-    <img src=https://i.ibb.co/HLZvhfdq/DEW-MD.jpg"  width="700px">
+    <img src="https://i.ibb.co/HLZvhfdq/DEW-MD.jpg"  width="700px">
 </a>
