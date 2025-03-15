@@ -13,5 +13,6 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "94701515609",
 AUTO_REACT: process.env.AUTO_REACT || "true",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
-AUTO_REPLY: process.env.AUTO_REPLY || "true"
+AUTO_REPLY: process.env.AUTO_REPLY || "true",
+LANG: process.env.LANG || "SI"
 };
