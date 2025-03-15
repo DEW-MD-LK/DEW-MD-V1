@@ -2,9 +2,9 @@
   "name": "DEW-MD",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
-  "main": "index.js",
+  "main": "start.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name DEW-MD",
+    "start": "pm2 start start.js --deep-monitoring --attach --name DEW-MD",
     "stop": "pm2 stop DEW-MD",
     "restart": "pm2 restart DEW-MD"
   },
