@@ -60,9 +60,9 @@
    
 [![BOT-NEW](https://img.shields.io/badge/dew_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
-[![BOT-NEW](https://img.shields.io/badge/dew_md_deploy_on_Talkdove-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=20)
+[![BOT-NEW](https://img.shields.io/badge/dew_md_deploy_on_Talkdove-000000?style=for-the-badge&logo=talkdrove&logoColor=white&buttcode=1n2i3m4a)](https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=20)
 
-[![BOT-NEW](https://img.shields.io/badge/dew_md_deploy_on_pannel-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://bot-hosting.net/?aff=1256127525885575198)
+[![BOT-NEW](https://img.shields.io/badge/dew_md_deploy_on_pannel-000000?style=for-the-badge&logo=talkdrove&logoColor=white&buttcode=1n2i3m4a)](https://bot-hosting.net/?aff=1256127525885575198)
 
 <hr>
 <b>COPY DEPLOY CODE</b></br>
