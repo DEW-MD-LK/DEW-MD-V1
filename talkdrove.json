@@ -1,4 +1,3 @@
-
 {
     "bot-name": "DEW-MD-V1",
     "description": "DEW-MD made By Hansa Dewmina",
@@ -9,7 +8,7 @@
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with Byte;;;, or get session id from here, https://high-rodie-dew-md-8b276a52.koyeb.app",
+        "description": "Put your SESSION_ID here. ඔයාගේ සෙසන් ID එක මෙතනට දාන්න.;;;, නැත්නම ID එකක් මේ ලින්ක් එකෙන් යන්න, https://high-rodie-dew-md-8b276a52.koyeb.app",
         "value":"",
         "required": true
         
@@ -27,13 +26,13 @@
         
       },
       "MODE": {
-        "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
+        "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public) බොට් වැඩ කරන්න ඔනෙ විදිය",
         "value":"public",
         "required": true
         
       },
       "OWNER_NUMBER": {
-        "description": "OWNER_NUMBER with country code (e.g, 9230723xxxxx)",
+        "description": "OWNER_NUMBER with country code (e.g, 9430723xxxxx)",
         "value":"923072380xxxx",
         "required": true
         
