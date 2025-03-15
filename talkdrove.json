@@ -48,7 +48,28 @@
         "description": "Bot will react to the msgs, To Enable put true and to disable put false (e.g, true)",
         "value":"false",
         "required": false
+
+    },
+      "AUTO_VOICE": {
+        "description": "Bot will auto voice to the msgs, To Enable put true and to disable put false (e.g, true)",
+        "value":"false",
+        "required": false
+        },
         
+      "AUTO_BIO": {
+        "description": "Bot will auto bio, To Enable put true and to disable put false (e.g, true)",
+        "value":"false",
+        "required": false
+          },
+      "AUTO_REACT_STATUS": {
+        "description": "Bot will react to the msgs, To Enable put true and to disable put false (e.g, true)",
+        "value":"false",
+        "required": false
+          },
+      "ALWAYS_ONLINE": {
+        "description": "Bot will always online, To Enable put true and to disable put false (e.g, true)",
+        "value":"false",
+        "required": false
       }
     }
   
