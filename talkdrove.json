@@ -1,0 +1,56 @@
+
+{
+    "bot-name": "DEW-MD-V1",
+    "description": "DEW-MD made By Hansa Dewmina",
+    "logo": "https://i.ibb.co/tT6v8x1t/favicon.png",
+    "keywords": ["bot"],
+    "documentation-link": "https://high-rodie-dew-md-8b276a52.koyeb.app",
+    "owner-verification":"hansadewminalk@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here. Make sure it starts with Byte;;;, or get session id from here, https://high-rodie-dew-md-8b276a52.koyeb.app",
+        "value":"",
+        "required": true
+        
+      },
+      "PREFIX": {
+        "description": "Bot command prefix, (e.g, . , ! @ etc",
+        "value":".",
+        "required": true
+        
+      },
+      "AUTO_READ_STATUS": {
+        "description": "Bot will all status, To Enable put true and to disable put false (e.g, true)",
+        "value":"true",
+        "required": false
+        
+      },
+      "MODE": {
+        "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
+        "value":"public",
+        "required": true
+        
+      },
+      "OWNER_NUMBER": {
+        "description": "OWNER_NUMBER with country code (e.g, 9230723xxxxx)",
+        "value":"923072380xxxx",
+        "required": true
+        
+      },
+     
+      "AUTO_REPLY": {
+        "description": "Bot will reply to the msgs like gm, gn, love you, hate you, hi, etc... To Enable put true and to disable put false (e.g, true)",
+        "value":"false",
+        "required": false
+        
+      },
+      "AUTO_REACT": {
+        "description": "Bot will react to the msgs, To Enable put true and to disable put false (e.g, true)",
+        "value":"false",
+        "required": false
+        
+      }
+    }
+  
+  }
