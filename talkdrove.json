@@ -8,7 +8,7 @@
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. ඔයාගේ සෙසන් ID එක මෙතනට දාන්න.;;;, නැත්නම ID එකක් මේ ලින්ක් එකෙන් යන්න, https://high-rodie-dew-md-8b276a52.koyeb.app",
+        "description": "Put your SESSION_ID here..;;;, TO GET SESION ID, https://high-rodie-dew-md-8b276a52.koyeb.app",
         "value":"",
         "required": true
         
