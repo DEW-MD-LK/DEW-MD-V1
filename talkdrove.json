@@ -26,7 +26,7 @@
         
       },
       "MODE": {
-        "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public) බොට් වැඩ කරන්න ඔනෙ විදිය",
+        "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
         "value":"public",
         "required": true
         
